@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.com/touristVouchersTest"
+        xmlns:tns="http://www.example.com/touristVouchersTest"
+        elementFormDefault="qualified">
+    <element name="tourist_vouchers">
+        <complexType>
+            <sequence>
+                <element name="tourist_voucher"
+                         type="tns:Tourist_Voucher"
+                         minOccurs="1"
+                         maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+
+    <complexType name="Tourist_Voucher">
+        <sequence>
+            <element name="voucher_type" type="tns:Voucher_Type"/>
+            <element name="country" type="tns:Country"/>
+            <element name="city" type="tns:City"/>
+            <element name="duration" type="tns:Duration"/>
+            <element name="transport" type="tns:Transport"/>
+            <element name="hotel_characteristics" type="tns:Hotel_Characteristics"/>
+            <element name="cost" type="decimal"/>
+        </sequence>
+        <attribute name="id" type="tns:id" use="required"/>
+        <attribute name="title" type="string" use="optional" default="Tourist voucher"/>
+    </complexType>
+
+    <simpleType name="City">
+        <restriction base="string">
+            <pattern value="[a-zA-Z]{1,25}"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="Country">
+        <restriction base="string">
+            <pattern value="[a-zA-Z]+"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="id">
+        <restriction base="ID">
+            <pattern value="ID\d{1,20}"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="Voucher_Type">
+        <restriction base="string">
+            <enumeration value="weekend"/>
+            <enumeration value="excursion"/>
+            <enumeration value="relaxation"/>
+            <enumeration value="pilgrimage"/>
+            <enumeration value="cruise"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="Transport">
+        <restriction base="string">
+            <enumeration value="plane"/>
+            <enumeration value="ship"/>
+            <enumeration value="bus"/>
+            <enumeration value="train"/>
+        </restriction>
+    </simpleType>
+
+
+    <complexType name="Hotel_Characteristics">
+        <sequence>
+            <element name="stars" type="tns:Stars"/>
+            <element name="food_type" type="tns:Food_Type"/>
+            <element name="room_type" type="tns:Room_Type"/>
+            <element name="tv" type="boolean"/>
+            <element name="air_condition" type="boolean"/>
+        </sequence>
+    </complexType>
+
+    <simpleType name="Stars">
+        <restriction base="int">
+            <pattern value="[1-5]"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="Food_Type">
+        <restriction base="string">
+            <enumeration value="OB"/>
+            <enumeration value="BB"/>
+            <enumeration value="HB"/>
+            <enumeration value="FB"/>
+            <enumeration value="AL"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="Room_Type">
+        <restriction base="string">
+            <enumeration value="SGL"/>
+            <enumeration value="DBL"/>
+            <enumeration value="TRPL"/>
+            <enumeration value="Suite"/>
+            <enumeration value="ExB"/>
+        </restriction>
+    </simpleType>
+
+    <complexType name="Duration">
+        <sequence>
+            <element name="start_date" type="date"/>
+            <element name="end_date" type="date"/>
+        </sequence>
+    </complexType>
+
+</schema>

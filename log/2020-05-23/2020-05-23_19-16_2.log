@@ -1,0 +1,151 @@
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - SGL
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - 
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - true
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - 
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - false
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - 
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - 
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - 350.00
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - 
+2020-05-23 19:16:11 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - 
+2020-05-23 19:16:11 [main] ERROR by.prokhorenko.xmlparser.validation.XMLValidator - XML file not found
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: excursion
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Germany
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Berlin
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2020-05-19
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2020-05-29
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: plane
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 4
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: AL
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: DBL
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: true
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: true
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2000.00
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: cruise
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Italy
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Rome
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2010-08-13
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2010-08-27
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: ship
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 5
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: HB
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: DBL
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: true
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: false
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 1700.00
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: relaxation
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Greece
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Athens
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2020-07-10
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2020-07-24
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: plane
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 5
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: BB
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: DBL
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: true
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: true
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 3000.00
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:40 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: excursion
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Poland
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Warsaw
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2020-03-10
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2020-03-17
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: bus
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 3
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: BB
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: DBL
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: true
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: false
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 950.00
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: weekend
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Russia
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: Moscow
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2020-01-01
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 2020-01-04
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: train
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 5
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: 
+2020-05-23 19:16:41 [main] DEBUG prokhorenko.xmlparser.parser.sax.TouristVouchersHandler - Value: BB

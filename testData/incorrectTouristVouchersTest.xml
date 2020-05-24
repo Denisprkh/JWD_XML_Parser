@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tourist_vouchers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xmlns="http://www.example.com/touristVouchersTest"
+                  xsi:schemaLocation="http://www.example.com/touristVouchers touristVouchersTest.xsd">
+    <tourist_voucher id="ID1">
+        <voucher_type>excursion</voucher_type>
+        <country>Germany</country>
+        <city>123</city>
+        <duration>
+            <start_date>2020-05-19</start_date>
+            <end_date>2020-05-29</end_date>
+        </duration>
+        <sport>plane</sport>
+        <hotel_characteristics>
+            <stars>4</stars>
+            <food_type>AL</food_type>
+            <room_type>DBL</room_type>
+            <tv>true</tv>
+            <air_condition>yes</air_condition>
+        </hotel_characteristics>
+        <cost>2000.00</cost>
+    </tourist_voucher>
+</tourist_vouchers>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tourist_vouchers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://www.example.com/touristVouchers"
+          xsi:schemaLocation="http://www.example.com/touristVouchers touristVouchers.xsd">
+    <tourist_voucher id="ID1">
+        <voucher_type>excursion</voucher_type>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <duration>
+            <start_date>2020-05-19</start_date>
+            <end_date>2020-05-29</end_date>
+        </duration>
+        <transport>plane</transport>
+        <hotel_characteristics>
+            <stars>4</stars>
+            <food_type>AL</food_type>
+            <room_type>DBL</room_type>
+            <tv>true</tv>
+            <air_condition>true</air_condition>
+        </hotel_characteristics>
+        <cost>2000.00</cost>
+    </tourist_voucher>
+    <tourist_voucher id="ID2" title="Unforgettable views">
+        <voucher_type>cruise</voucher_type>
+        <country>Italy</country>
+        <city>Rome</city>
+        <duration>
+            <start_date>2010-08-13</start_date>
+            <end_date>2010-08-27</end_date>
+        </duration>
+        <transport>ship</transport>
+        <hotel_characteristics>
+            <stars>5</stars>
+            <food_type>HB</food_type>
+            <room_type>DBL</room_type>
+            <tv>true</tv>
+            <air_condition>false</air_condition>
+        </hotel_characteristics>
+        <cost>1700.00</cost>
+    </tourist_voucher>
+    <tourist_voucher id="ID3">
+        <voucher_type>relaxation</voucher_type>
+        <country>Greece</country>
+        <city>Athens</city>
+        <duration>
+            <start_date>2020-07-10</start_date>
+            <end_date>2020-07-24</end_date>
+        </duration>
+        <transport>plane</transport>
+        <hotel_characteristics>
+            <stars>5</stars>
+            <food_type>BB</food_type>
+            <room_type>DBL</room_type>
+            <tv>true</tv>
+            <air_condition>true</air_condition>
+        </hotel_characteristics>
+        <cost>3000.00</cost>
+    </tourist_voucher>
+    <tourist_voucher id="ID4">
+        <voucher_type>excursion</voucher_type>
+        <country>Poland</country>
+        <city>Warsaw</city>
+        <duration>
+            <start_date>2020-03-10</start_date>
+            <end_date>2020-03-17</end_date>
+        </duration>
+        <transport>bus</transport>
+        <hotel_characteristics>
+            <stars>3</stars>
+            <food_type>BB</food_type>
+            <room_type>DBL</room_type>
+            <tv>true</tv>
+            <air_condition>false</air_condition>
+        </hotel_characteristics>
+        <cost>950.00</cost>
+    </tourist_voucher>
+    <tourist_voucher id="ID5">
+        <voucher_type>weekend</voucher_type>
+        <country>Russia</country>
+        <city>Moscow</city>
+        <duration>
+            <start_date>2020-01-01</start_date>
+            <end_date>2020-01-04</end_date>
+        </duration>
+        <transport>train</transport>
+        <hotel_characteristics>
+            <stars>5</stars>
+            <food_type>BB</food_type>
+            <room_type>SGL</room_type>
+            <tv>true</tv>
+            <air_condition>false</air_condition>
+        </hotel_characteristics>
+        <cost>350.00</cost>
+    </tourist_voucher>
+</tourist_vouchers>
