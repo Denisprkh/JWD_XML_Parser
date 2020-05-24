@@ -77,13 +77,13 @@ public class TouristVoucherDOMBuilder extends AbstractTouristVoucherBuilder {
     private TouristVoucher buildTouristVoucher(Element element){
         TouristVoucher touristVoucher = new TouristVoucher();
         touristVoucher.setId(element.getAttribute(TouristVoucherTag.ID.getTag()));
-       String title = element.getAttribute(TouristVoucherTag.TITLE.getTag());
+        String title = element.getAttribute(TouristVoucherTag.TITLE.getTag());
         if(!title.isEmpty()){
             touristVoucher.setTitle(title);
         }
         touristVoucher.setVoucherType(TouristVoucherType.getTouristVoucherTypeByValue
                 (getElementTextContent(element,TouristVoucherTag.VOUCHER_TYPE.getTag())).get());
-         touristVoucher.setCountry(getElementTextContent(element,TouristVoucherTag.COUNTRY.getTag()));
+        touristVoucher.setCountry(getElementTextContent(element,TouristVoucherTag.COUNTRY.getTag()));
         touristVoucher.setCity(getElementTextContent(element,TouristVoucherTag.CITY.getTag()));
         touristVoucher.setTransportType(TransportType.getTransportTypeByValue
                 (getElementTextContent(element,TouristVoucherTag.TRANSPORT.getTag())).get());
